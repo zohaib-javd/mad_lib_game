@@ -19,7 +19,7 @@ Run the app and create your **own sci-fi story** in seconds!
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/zohaib-javd/mad_lib_game.git
-cd galactic-mad-libs
+cd mad_lib_game
 ```
 
 ### 2️⃣ Install Dependencies  
