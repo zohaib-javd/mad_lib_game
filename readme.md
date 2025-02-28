@@ -2,7 +2,7 @@
 
 A fun, interactive **Mad Libs** game built with **Streamlit**! Customize your own **space adventure** by filling in the blanks with your own names, planets, alien species, and magical items. Let your creativity take off into the cosmos! 🌠  
 
-## 🎮 Live Demo  
+## 🎮 Live Demo : https://zohaib-javd-mad-lib-game-app-oj5fnr.streamlit.app/ 
 Run the app and create your **own sci-fi story** in seconds!  
 
 ---
